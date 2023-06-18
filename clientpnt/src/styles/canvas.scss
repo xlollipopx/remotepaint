@@ -1,0 +1,24 @@
+@import "./variables";
+
+
+.canvas {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+}
+
+.users {
+    margin-left: 10px;
+    height: 500px;
+    padding: 10px;
+    width: 300px;
+    border: 1px solid black;
+}
+
+
+canvas {
+    border: 1px solid black;
+    background-color: white;
+}
